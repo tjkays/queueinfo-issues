@@ -5,6 +5,11 @@ eHUD Git Gooder-er CLI version. View all your favorite queues from your terminal
 
 Issue only repository for queueinfo application
 
+## Download
+
+You can find the latest releases for the queueinfo program here:
+
+https://tylerk.tech/queueinfo/
 
 ## Installation
 
